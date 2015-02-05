@@ -1,5 +1,5 @@
 {
-  "name": "amd-optimize",
+  "name": "gulp-amd-optimize",
   "version": "0.4.3",
   "description": "An AMD (i.e. RequireJS) optimizer that's stream-friendly. Made for gulp. (WIP)",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/scalableminds/amd-optimize.git"
+    "url": "git://github.com/cgkineo/gulp-amd-optimize.git"
   },
   "keywords": [
     "gulpplugin",
